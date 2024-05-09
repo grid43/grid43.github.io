@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Grid43 is a technology consulting firm located in Central Florida. To find out more, contact us a <info@grid43.com>.
