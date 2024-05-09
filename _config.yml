@@ -24,13 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Grid43, Inc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.grid43.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: grid43
+github_username:  grid43
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
+
+# Cayman theme settings
+show_downloads: false
+google_analytics: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
